@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Ноутбук ASUS",
+        "description": "15.6 дюймов, 8GB RAM",
+        "manufacturer": "ASUS",
+        "price": 45000,
+        "discount": 10,
+        "stock": 5,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Смартфон Samsung",
+        "description": "6.2 дюйма, 128GB",
+        "manufacturer": "Samsung",
+        "price": 32000,
+        "discount": 5,
+        "stock": 8,
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Наушники Sony",
+        "description": "Беспроводные",
+        "manufacturer": "Sony",
+        "price": 12000,
+        "discount": 20,
+        "stock": 12,
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Монитор LG",
+        "description": "27 дюймов, 4K",
+        "manufacturer": "LG",
+        "price": 28000,
+        "discount": 0,
+        "stock": 3,
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Клавиатура Logitech",
+        "description": "Механическая",
+        "manufacturer": "Logitech",
+        "price": 7000,
+        "discount": 15,
+        "stock": 20,
+        "image": ""
+    }
+]
